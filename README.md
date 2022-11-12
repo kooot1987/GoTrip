@@ -1,1 +1,1 @@
-# GoTrip
+# GoTrip (Adaptation to mobile devices)
